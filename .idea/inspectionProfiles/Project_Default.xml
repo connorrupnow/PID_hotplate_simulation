@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="pywin32" />
+            <item index="1" class="java.lang.String" itemvalue="scipy" />
+            <item index="2" class="java.lang.String" itemvalue="ftd2xx" />
+            <item index="3" class="java.lang.String" itemvalue="pygame" />
+            <item index="4" class="java.lang.String" itemvalue="simple-pid" />
+            <item index="5" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="6" class="java.lang.String" itemvalue="obs-websocket-py" />
+            <item index="7" class="java.lang.String" itemvalue="ada-tools.obs-video" />
+            <item index="8" class="java.lang.String" itemvalue="future" />
+            <item index="9" class="java.lang.String" itemvalue="north-devices" />
+            <item index="10" class="java.lang.String" itemvalue="pypiwin32" />
+            <item index="11" class="java.lang.String" itemvalue="zaber-motion-bindings-windows" />
+            <item index="12" class="java.lang.String" itemvalue="north-utils" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
